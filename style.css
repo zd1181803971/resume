@@ -1,0 +1,55 @@
+.resume-title {
+    text-align: center;
+    color: #35495D;
+    font-size: 14pt;
+}
+
+.resume-binfo {
+    color: #35495D;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 10pt;
+    /*padding-bottom: 10px;*/
+}
+
+.ctitle {
+    font-size: 14pt;
+    color: #35495D;
+    margin: 0 auto;
+    width: 95%;
+}
+
+a {
+    color: #35495D;
+    text-decoration: none;
+}
+
+a:hover {
+    border-bottom: #35495D dashed 1px;
+}
+
+hr {
+    width: 95%;
+    color: #DDDDDD;
+    background-color: #DDDDDD;
+    border: none;
+    height: 1px;
+}
+
+.cbody {
+    width: 98%;
+    padding-left: 10px;
+    color: #35495D;
+    margin: 0 auto;
+}
+
+.cbody-title {
+    font-size: 12pt;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.cbody-content {
+    font-size: 10pt;
+    color: #35495D;
+}
